@@ -1,1 +1,0 @@
-# A madlib made with python, some more functions like pyttsx3, speech recognition will be added
